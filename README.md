@@ -1,6 +1,6 @@
 - 👋 Hi, I'm chunix64.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chunix64&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chunix64&theme=tokyonight)
 
 <!--
 **chunix64/chunix64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
